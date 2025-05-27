@@ -2,4 +2,5 @@ streamlit
 torch
 torchvision
 opencv-python-headless
+tensorflow
 Pillow
